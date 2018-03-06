@@ -13,7 +13,7 @@ body {
 p {
     color: #fff;
 }
-/*
+
 .navbar-default {
     width: 100%;
 }
@@ -30,6 +30,9 @@ p {
     margin-bottom: -5%;
 }
 
+.navbar-nav li {
+    color: black;
+}
 
 /*
 li.dropdown:hover > .dropdown-menu {
