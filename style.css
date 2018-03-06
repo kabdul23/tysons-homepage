@@ -416,6 +416,7 @@ nav.mainMenu > ul > li:hover > a .sub { color:#bccefc; }
 nav.mainMenu > ul > li.current_page_item > a { color:#bccefc; }
 */
 /* submenus */
+/*
 nav.mainMenu ul ul { width:250px; padding:0; background:#003055; position:absolute; left:0; top:59px; margin:0; border-bottom:3px solid #003055; transition: all 0.2s ease-in-out 0s; opacity: 0; visibility: hidden; box-shadow: 0 3px 3px #003055; }
 nav.mainMenu ul ul li { display:block; position:relative; padding:0; border-bottom:1px solid #112555; }
 nav.mainMenu ul ul li:last-child { border-bottom:0px; }
@@ -429,6 +430,7 @@ nav.mainMenu > ul > li > ul > li:first-child li:first-child { border-top:1px sol
 nav.mainMenu ul ul ul { left:100%; top:0; margin:0 0 0 20px; border-top:0; }
 nav.mainMenuu ul ul li:first-child > ul { top:0px; border-top:0px; }
 nav.mainMenu > select { display:none; }
+*/
 /*-------Slider-------*/
 #slider-wrap {background:#000;}
 #slider-wrap .slider { padding:0; display:block; position:relative; background:#fff; max-width:100%; /*max-width: 1500px;*/ margin:0 auto;}
