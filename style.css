@@ -31,7 +31,7 @@ p {
 }
 
 
-
+/*
 li.dropdown:hover > .dropdown-menu {
     display: block;
     background-color: #003055;
@@ -64,7 +64,7 @@ li.dropdown:hover > .dropdown-menu {
     font-size: 15px;
    
 }
-
+*/
 li {
     color: #003055;
 }
