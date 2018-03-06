@@ -13,7 +13,7 @@ body {
 p {
     color: #fff;
 }
-
+/*
 .navbar-default {
     width: 100%;
 }
@@ -64,11 +64,11 @@ li.dropdown:hover > .dropdown-menu {
     font-size: 15px;
    
 }
-*/
+
 li {
     color: #003055;
 }
-
+*/
 .innerbanner {
    background-size: cover;
    background-color: #003055;
