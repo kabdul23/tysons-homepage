@@ -28,7 +28,7 @@ p {
     background-color: #003055;
     width: 100%;
     margin-bottom: -5%;
-    margin-left: 2%;
+    margin-left: -2%;
 }
 
 
@@ -404,7 +404,7 @@ nav.mainMenu { position:relative; z-index:9999; }
 nav.mainMenu ul { padding:0px; margin:0; font-family: "Oswald"; }
 nav.mainMenu > ul > li { display:block; float:left; position:relative; line-height:59px; }
 nav.mainMenu ul ul li:first-child > a:after { content: ''; position: absolute; left: 40px; top: -5px; background:url(../images/ul-arrow.png) no-repeat; width:11px; height:5px; }
-nav.mainMenu ul ul ul li:first-child a:after { left: -5px; top: 50%; margin-top: -6px; border-left: 0; background:url(../images/uls-arrow.png) no-repeat; width:5px; height:11px; }
+nav.mainMenu ul ul ul li:first-child a:after { left: -15px; top: 50%; margin-top: -6px; border-left: 0; background:url(../images/uls-arrow.png) no-repeat; width:5px; height:11px; }
 
 nav.mainMenu > ul > li a.active { color:#00707b; }
 nav.mainMenu > ul > li:last-child { background:none; }
