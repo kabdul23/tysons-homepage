@@ -28,7 +28,6 @@ p {
     background-color: #003055;
     width: 100%;
     margin-bottom: -5%;
-    margin-left: -2%;
 }
 
 
@@ -398,7 +397,7 @@ header .rightRow .contact{margin-right:10px;}
 header .rightRow .topFieldArea .go{position:absolute; top:0; right:0; background:url(../images/fieldArrow.png) no-repeat 2px 5px; width:20px; height:27px; text-indent:-9999px;}
 header .rightRow  .topFieldArea .go a{display:block; width:100%; height:100;}
 header .topRow .companyLogo{float:right; clear:both; margin-top:36px;}
-
+/*
 #navbar-wrap{background-color:red; height:60px; display:block; border-bottom:1px solid #475a79;border-top:1px solid #475a79;}
 nav.mainMenu { position:relative; z-index:9999; }
 nav.mainMenu ul { padding:0px; margin:0; font-family: "Oswald"; }
@@ -415,6 +414,7 @@ nav.mainMenu > ul > li > a:hover { text-decoration:none; }
 nav.mainMenu > ul > li:hover > a { color:#bccefc; }
 nav.mainMenu > ul > li:hover > a .sub { color:#bccefc; }
 nav.mainMenu > ul > li.current_page_item > a { color:#bccefc; }
+*/
 /* submenus */
 nav.mainMenu ul ul { width:250px; padding:0; background:#003055; position:absolute; left:0; top:59px; margin:0; border-bottom:3px solid #003055; transition: all 0.2s ease-in-out 0s; opacity: 0; visibility: hidden; box-shadow: 0 3px 3px #003055; }
 nav.mainMenu ul ul li { display:block; position:relative; padding:0; border-bottom:1px solid #112555; }
